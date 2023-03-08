@@ -5,6 +5,8 @@ Diabetic Retinopathy (DR) is an eye condition that can cause damage to retinal b
 
 The main objective is to develop an automated classification system to diagnose and classify the high resolution fundus retinal images and provide information on the severity. We will be using Capsule Network to train the model and for classification we will be using autoencoder.
 
+![download](https://user-images.githubusercontent.com/84266933/223822067-135756f2-b4f2-457a-ab3f-adcd0fd7322d.jpeg)
+
 ## Group members:
 
 Name: Ayesha Anzer           
